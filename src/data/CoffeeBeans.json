@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Organic Arabica Coffee Powder",
+        "price": 2.50,
+        "priceDiscount": 4,
+        "image" : "https://i.pinimg.com/564x/89/35/b1/8935b175a270badb4d34704965bd34c7.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Robusta Toraja",
+        "price": 0.71,
+        "priceDiscount": 2.90,
+        "image" : "https://ceklist.id/wp-content/uploads/2023/05/1-ARUTALA-Kopi-Toraja-Rantebua.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lana Coffee Co.",
+        "priceDiscount": 4,
+        "price": 2.50,
+        "image" : "https://i.pinimg.com/564x/aa/2d/43/aa2d4341fa2d1415829c3368eef51776.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Santa Monica ",
+        "price": 2.50,
+        "priceDiscount": 4,
+        "image" : "https://i.pinimg.com/564x/ed/8a/48/ed8a48dff8745757ef9b417a67fd282b.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Aroma Colombia",
+        "price": 2.50,
+        "priceDiscount": 4,                          
+        "image": "https://i.pinimg.com/564x/6b/d9/6f/6bd96f4954296d1aebab8a40ef423c18.jpg"
+    },                                                                                                                                                                                                                                                               
+    {
+        "id": 6,
+        "name": "Sumatra Mandhaling Gayo ",
+        "price": 1.39,
+        "priceDiscount": 5.54,
+        "image" : "https://i.pinimg.com/236x/dd/40/33/dd403368e69f26562cf0e1ca450b7d9c.jpg"
+    }
+]

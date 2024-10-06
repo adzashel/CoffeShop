@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Frapuccino",
+        "price": 7,
+        "discPrice" : 4,
+        "image": "https://i.pinimg.com/564x/18/e9/3b/18e93b654502970003ef70ee935c9752.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kopi Kenangan Mantancino",
+        "price": 3,
+        "discPrice" : 1,
+        "image": "https://i.pinimg.com/564x/1c/29/1f/1c291f83693f302a35b5b537bd32e52d.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Nescafe Azero Americano",
+        "price": 8,
+        "discPrice" : 5,
+        "image": "https://i.pinimg.com/564x/ad/f4/60/adf460657cd8a40c9c2faee1447c7028.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Good Day Cappuccino Latte",
+        "price": 4,
+        "discPrice" : 1,
+        "image": "https://i.pinimg.com/736x/a1/93/c0/a193c00a37e7018bfc34a52e4ee54f74.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Nescafe Caramel Macchiato",
+        "price": 5,
+        "discPrice" : 2,
+        "image": "https://i.pinimg.com/736x/fd/b7/b7/fdb7b790b624ad21acecfa6e652bfc9f.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Coke Energy",
+        "price": 6,
+        "discPrice" : 4,
+        "image": "https://i.pinimg.com/564x/da/55/cc/da55ccf7c2a31b7b0725c424682ec803.jpg"
+    }
+]

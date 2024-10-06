@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Nihilsm",
+    "price": 7.5,
+    "priceDiscount": 5,
+    "image": "https://i.pinimg.com/564x/22/cf/9c/22cf9c8878c04cdd0bc52eb1b0e52792.jpg"
+  },
+  {
+    "name": "Marxism",
+    "price": 9.9,
+    "priceDiscount": 7,
+    "image": "https://i.pinimg.com/564x/fd/a1/41/fda1414f15d51799a3e6d53a00b016ec.jpg"
+  },
+  {
+    "name": "Existentialism",
+    "price": 12.9,
+    "priceDiscount": 10,
+    "image": "https://i.pinimg.com/236x/55/4b/ed/554bedd6ddcf9b1a8280f889f87c10f5.jpg"
+  },
+  {
+    "name": "Absurdism",
+    "price": 13.25,
+    "priceDiscount": 9.1,
+    "image": "https://i.pinimg.com/564x/0d/34/ee/0d34ee91d79be72753d3389bac727435.jpg"
+  },
+  {
+    "name": "Stoicism",
+    "price": 15,
+    "priceDiscount": 12,
+    "image": "https://i.pinimg.com/564x/03/3e/be/033ebe2b2bdc2b97ab77b9f4de5dbfdf.jpg"
+  },
+  {
+    "name": "Rasionalism",
+    "price": 13,
+    "priceDiscount": 9,
+    "image": "https://i.pinimg.com/564x/22/b0/34/22b034a50ef65eb5e89af8807a92c049.jpg"
+  },
+  {
+    "name": "Humanism",
+    "price": 12,
+    "priceDiscount": 7.5,
+    "image": "https://i.pinimg.com/564x/c5/8a/88/c58a88f9190b8b751a4576edca99f7ef.jpg"
+  },
+  {
+    "name": "Idealism",
+    "price": 12.5,
+    "priceDiscount": 8,
+    "image": "https://i.pinimg.com/564x/19/a7/bd/19a7bdc8f0ef3e1ec995a848c01d42a6.jpg"
+  },
+  {
+    "name": "Empiricism",
+    "price": 12.5,
+    "priceDiscount": 8,
+    "image": "https://i.pinimg.com/736x/85/85/11/85851111fca1556b7a272dd4d7df2943.jpg"
+  },
+  {
+    "name": "Realism",
+    "price": 13.75,
+    "priceDiscount": 9,
+    "image": "https://i.pinimg.com/564x/c5/8a/88/c58a88f9190b8b751a4576edca99f7ef.jpg"
+  },
+  {
+    "name": "Positivism",
+    "price": 11.5,
+    "priceDiscount": 7.5,
+    "image": "https://i.pinimg.com/564x/7f/e9/e3/7fe9e35f3d62602515ce3ec9014ac69e.jpg"
+  },
+  {
+    "name": "Dualism",
+    "price": 15,
+    "priceDiscount": 10,
+    "image": "https://i.pinimg.com/564x/c8/ce/85/c8ce85e2ccf9c8ff1bb7b2c61a0ce7d8.jpg"
+  }
+]
