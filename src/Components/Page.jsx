@@ -1,6 +1,13 @@
-const Page = ({ pages , active , setCurrentPage}) => {
+import PaginationPrevButton from "./PaginationPrevButton";
+import { NextButton } from "../Components/NextButton";
+
+const Page = ({ pages, active, setCurrentPage,currentPage }) => {
   return (
     <div className="pagination">
+      <PaginationPrevButton
+        setCurrentPage={setCurrentPage}
+        currentPage={currentPage}
+      />
       {pages.map((page, i) => {
         return (
           <button
@@ -12,6 +19,11 @@ const Page = ({ pages , active , setCurrentPage}) => {
           </button>
         );
       })}
+      <NextButton
+        currentPage={currentPage}
+        pages={pages}
+        setCurrentPage={setCurrentPage}
+      />
     </div>
   );
 };
